@@ -3,9 +3,9 @@
 This repository contains my hands-on practice with **Matplotlib**.
 
 ## Contents
-- `notebooks/` → Jupyter notebooks used for experimenting and scratching code
-- `data/` → Datasets used for visualization
-- `notes/` → My Obsidian-style summaries and notes
+- Jupyter notebooks used for experimenting and scratching code
+- Datasets used for visualization
+- My Obsidian-style summaries and notes
 
 ## Topics Covered
 - Line plots
