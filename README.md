@@ -16,4 +16,4 @@ This repository contains my hands-on practice with **Matplotlib**.
 - Customization (labels, legends, styles)
 
 ## Purpose
-This repo is part of my learning journey in **Data Science** and data visualization.
+This repo is part of my learning journey in **Data Science** 
